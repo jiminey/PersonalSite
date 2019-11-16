@@ -159,6 +159,8 @@ input, select, textarea {
 	h3 {
 		font-size: 1.25em;
 		line-height: 1.5em;
+		display: flex;
+		justify-content: space-evenly;
 	}
 
 	h4 {
@@ -3227,3 +3229,6 @@ input, select, textarea {
 	font-size: -webkit-xxx-large;
 }
 
+h3 {
+	display:
+}
