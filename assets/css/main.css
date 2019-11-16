@@ -160,7 +160,7 @@ input, select, textarea {
 		font-size: 1.25em;
 		line-height: 1.5em;
 		display: flex;
-		justify-content: space-evenly;
+		justify-content: space-around;
 	}
 
 	h4 {
@@ -3228,8 +3228,4 @@ input, select, textarea {
 
 [class*=" devicon-"], [class^=devicon-] {
 	font-size: -webkit-xxx-large;
-}
-
-h3 {
-	display:
 }
