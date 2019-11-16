@@ -3221,6 +3221,7 @@ input, select, textarea {
 
 	}
 
-i {
-  font-size: -webkit-xxx-large;
+
+[class*=" devicon-"], [class^=devicon-] {
+	font-size: -webkit-xxx-large;
 }
