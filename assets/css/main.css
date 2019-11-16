@@ -2101,6 +2101,7 @@ input, select, textarea {
 		.image img {
 			border-radius: 0.35em;
 			display: block;
+			height: 213px;
 		}
 
 		.image.left {
@@ -3225,3 +3226,4 @@ input, select, textarea {
 [class*=" devicon-"], [class^=devicon-] {
 	font-size: -webkit-xxx-large;
 }
+
